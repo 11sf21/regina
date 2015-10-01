@@ -44,6 +44,11 @@
 	clear: both;
   }
   
+  #pictures{
+	background-color: red;
+	height: 500px;
+  }
+  
   hr {
 	color: red;
   }
