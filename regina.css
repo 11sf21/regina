@@ -1,0 +1,59 @@
+/* Regina style sheet, by Steven Fry 10041647 */
+
+  h1 {
+	  text-align: center;
+  }
+  
+  #title {
+	text-align: center;
+	font-family: "Verdana", "Geneva", sans-serif; 
+	color: #C28100;
+	background-color: #0041C2;
+  }
+  
+  .firstparas {
+	border: 2px solid black;
+	border-radius: 40px 40px;
+	font-family: "Verdana", "Geneva", sans-serif; 
+	padding: 10px;
+    height: 200px;
+  }
+
+  
+  .titlefirstparas {
+	font-weight: bold;
+	color: red;
+  }
+  
+  .column {
+	float: left;
+	width: 40%;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	margin-left: 5%;
+	margin-right: 5%;
+  }
+
+  a {
+  	color: #000099;
+  	font-weight: bold;
+  	
+  }
+  
+  #aftercolumns{
+	clear: both;
+  }
+  
+  hr {
+	color: red;
+  }
+  
+  #memories {
+	column-count: 3;
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+	column-gap: 30px;
+	font-family: 'Tangerine', serif;
+	font-size: 36px;
+	text-shadow: 4px 4px 4px #aaa;
+  }
