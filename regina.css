@@ -68,12 +68,16 @@
 
   }
 
+  .emphasized{
+  	font-style: italic;
+  }
+
   #crime{
 	color: red;
   } 
   
   hr {
-	color: red;
+	color: #0041C2;
   }
   
   #memories {
