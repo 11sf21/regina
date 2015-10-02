@@ -55,7 +55,7 @@
 	-webkit-column-count: 3;
 	column-gap: 200px;
 	background-color: #0041C2;
-	height: 300px;
+	height: 350px;
 	margin-bottom: 10px;
   }
 
@@ -65,7 +65,7 @@
 	margin-bottom: 30px;
 	margin-left: 5%;
 	margin-right: 5%;
-	max-height: 300px;
+
   }
 
   #crime{
