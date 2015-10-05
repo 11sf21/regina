@@ -61,11 +61,15 @@
 
   .picture {
 
-
+	text-align: center;
 	margin-bottom: 30px;
 	margin-left: 5%;
 	margin-right: 5%;
 
+  }
+
+  .emphasized{
+  	font-style: italic;
   }
 
   #crime{
@@ -73,7 +77,7 @@
   } 
   
   hr {
-	color: red;
+	color: #0041C2;
   }
   
   #memories {
